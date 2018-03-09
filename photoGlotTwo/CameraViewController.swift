@@ -132,7 +132,7 @@ class CameraViewController: UIViewController, AVCaptureVideoDataOutputSampleBuff
         let url = URL(string: "https://api.cognitive.microsoft.com/sts/v1.0/issueToken")!
         
         var request = URLRequest(url: url)
-        request.addValue("7ca37b219f27480fbb68a422e5b3022f", forHTTPHeaderField: "Ocp-Apim-Subscription-Key")
+        request.addValue("[INSERT_API_KEY]", forHTTPHeaderField: "Ocp-Apim-Subscription-Key")
         //request.setValue("application/x-www-form-urlencoded", forHTTPHeaderField: "Content-Type")
         request.httpMethod = "POST"
         let postString = ""
