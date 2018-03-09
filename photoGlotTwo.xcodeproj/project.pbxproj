@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CB3FF166204DCBDE00F5F4A5 /* jssource.js in Resources */ = {isa = PBXBuildFile; fileRef = CB3FF165204DCBDE00F5F4A5 /* jssource.js */; };
-		CB3FF168204DFC2200F5F4A5 /* pythonFile.py in Resources */ = {isa = PBXBuildFile; fileRef = CB3FF167204DFC2200F5F4A5 /* pythonFile.py */; };
 		CB740ED1203148F200F38B4A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB740ED0203148F200F38B4A /* AppDelegate.swift */; };
 		CB740ED3203148F200F38B4A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB740ED2203148F200F38B4A /* ViewController.swift */; };
 		CB740ED6203148F200F38B4A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB740ED4203148F200F38B4A /* Main.storyboard */; };
@@ -22,8 +20,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CB3FF165204DCBDE00F5F4A5 /* jssource.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = jssource.js; sourceTree = "<group>"; };
-		CB3FF167204DFC2200F5F4A5 /* pythonFile.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = pythonFile.py; sourceTree = "<group>"; };
 		CB740ECD203148F100F38B4A /* photoGlotTwo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = photoGlotTwo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB740ED0203148F200F38B4A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CB740ED2203148F200F38B4A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -72,10 +68,8 @@
 				CB740EE62031498000F38B4A /* CameraViewController.swift */,
 				CB740EEA203153FA00F38B4A /* Resnet50.mlmodel */,
 				CB740EEE2031FDC700F38B4A /* VGG16.mlmodel */,
-				CB3FF167204DFC2200F5F4A5 /* pythonFile.py */,
 				CB740EEC2031548300F38B4A /* SqueezeNet.mlmodel */,
 				CB740ED2203148F200F38B4A /* ViewController.swift */,
-				CB3FF165204DCBDE00F5F4A5 /* jssource.js */,
 				CB740ED4203148F200F38B4A /* Main.storyboard */,
 				CB740EF02032219400F38B4A /* LanguageViewController.swift */,
 				CB740ED7203148F200F38B4A /* Assets.xcassets */,
@@ -144,10 +138,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CB3FF166204DCBDE00F5F4A5 /* jssource.js in Resources */,
 				CB740EDB203148F200F38B4A /* LaunchScreen.storyboard in Resources */,
 				CB740ED8203148F200F38B4A /* Assets.xcassets in Resources */,
-				CB3FF168204DFC2200F5F4A5 /* pythonFile.py in Resources */,
 				CB740ED6203148F200F38B4A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
