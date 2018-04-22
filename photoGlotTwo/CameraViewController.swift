@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  SmartCameraLBTA
 //
-//  Created by Brian Voong on 7/12/17.
-//  Copyright © 2017 Lets Build That App. All rights reserved.
 //
 //live capture
 //displays the objects identified on top
