@@ -14,4 +14,7 @@ Photoglot has won first Place in the Pitt Mobile App Challenge 2018 Code-it cate
 
 
 http://technology.pitt.edu/software/2018-pitt-mobile-app-challenge-winners
+
 https://youtu.be/Erp6U6nCg4s 
+
+Demo Video: https://pitt.app.box.com/s/ykl5pwvp35kwkv0t23avlxugx2ib1ync
