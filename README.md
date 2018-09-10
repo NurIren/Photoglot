@@ -13,8 +13,12 @@ need an API key for it to work.
 Photoglot has won first Place in the Pitt Mobile App Challenge 2018 Code-it category.
 
 
-http://technology.pitt.edu/software/2018-pitt-mobile-app-challenge-winners
+Winner Announcement: http://technology.pitt.edu/software/2018-pitt-mobile-app-challenge-winners
 
-https://youtu.be/Erp6U6nCg4s 
+Competition winner video: https://youtu.be/Erp6U6nCg4s 
 
 Demo Video: https://pitt.app.box.com/s/ykl5pwvp35kwkv0t23avlxugx2ib1ync
+
+Computer Science Department Announcement: https://cs.pitt.edu/news/cs-women-win-pitt-mobile-app-challenge/
+
+
