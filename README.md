@@ -13,7 +13,7 @@ Photoglot was later turned into an iOS app. It uses Apple Vision Resnet50 and Mi
 
 ## Acomplishments
 
-The iOS app version of Photoglot has won first Place in the Pitt Mobile App Challenge 2018 Code-it category.
+The iOS app version of Photoglot has won first Place in the Pitt Mobile App Challenge 2018 Code-it category. The web app version of Photoglot won third at SheInnovates 2018.
 
 
 -[Winner Announcement](http://technology.pitt.edu/software/2018-pitt-mobile-app-challenge-winners)
