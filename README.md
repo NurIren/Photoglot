@@ -6,7 +6,7 @@ PhotoGlot is a language learning tool. The user aims the camera at an object, an
 
 Photoglot was initially built at SheInnovates 2018 as a web app. More details can be found [here](https://github.com/ChloeCiora/sheInnovates18) 
 
-## iOS app of Photoglot
+## Photoglot as an iOS app
 
 Photoglot was later turned into an iOS app. It uses Apple Vision Resnet50 and Microsoft Azure text translator API. To run the app, you will need an API key. This code was tested using an iphone 7, so settings may change with different models.
 
