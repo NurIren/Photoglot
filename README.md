@@ -1,24 +1,27 @@
 # Photoglot
-IOS app of Photoglot
-
 
 PhotoGlot is a language learning tool. The user aims the camera at an object, and the name of that object is displayed in the language of choice. Our app aims to aid in language learning. Instead of using an intermediary language to determine what an object is in a foreign language, our app allows for direct association of an object with a word in that language.
 
-Uses Apple Vision Resnet50 and Microsoft Azure text translator API.
+## Photoglot as a web app
 
-need an API key for it to work.
+Photoglot was initially built at SheInnovates 2018 as a web app. More details can be found at: 
+
+## iOS app of Photoglot
+
+Photoglot was later turned into an iOS app. It uses Apple Vision Resnet50 and Microsoft Azure text translator API. To run the app, you will need an API key. This code was tested using an iphone 7, so settings may change with different models.
 
 
+## Acomplishments
 
-Photoglot has won first Place in the Pitt Mobile App Challenge 2018 Code-it category.
+The iOS app version of Photoglot has won first Place in the Pitt Mobile App Challenge 2018 Code-it category.
 
 
-Winner Announcement: http://technology.pitt.edu/software/2018-pitt-mobile-app-challenge-winners
+-Winner Announcement: http://technology.pitt.edu/software/2018-pitt-mobile-app-challenge-winners
 
-Competition winner video: https://youtu.be/Erp6U6nCg4s 
+-Competition winner video: https://youtu.be/Erp6U6nCg4s 
 
-Demo Video: https://pitt.app.box.com/s/ykl5pwvp35kwkv0t23avlxugx2ib1ync
+-Demo Video: https://pitt.app.box.com/s/ykl5pwvp35kwkv0t23avlxugx2ib1ync
 
-Computer Science Department Announcement: https://cs.pitt.edu/news/cs-women-win-pitt-mobile-app-challenge/
+-Computer Science Department Announcement: https://cs.pitt.edu/news/cs-women-win-pitt-mobile-app-challenge/
 
 
