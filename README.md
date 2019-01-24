@@ -4,7 +4,7 @@ PhotoGlot is a language learning tool. The user aims the camera at an object, an
 
 ## Photoglot as a web app
 
-Photoglot was initially built at SheInnovates 2018 as a web app. More details can be found at: https://github.com/ChloeCiora/sheInnovates18 
+Photoglot was initially built at SheInnovates 2018 as a web app. More details can be found [here](https://github.com/ChloeCiora/sheInnovates18) 
 
 ## iOS app of Photoglot
 
@@ -16,21 +16,21 @@ Photoglot was later turned into an iOS app. It uses Apple Vision Resnet50 and Mi
 The iOS app version of Photoglot has won first Place in the Pitt Mobile App Challenge 2018 Code-it category.
 
 
--Winner Announcement: http://technology.pitt.edu/software/2018-pitt-mobile-app-challenge-winners
+-[Winner Announcement](http://technology.pitt.edu/software/2018-pitt-mobile-app-challenge-winners)
 
--Competition winner video: https://youtu.be/Erp6U6nCg4s 
+-[Competition winner video](https://youtu.be/Erp6U6nCg4s) 
 
--Demo Video: https://pitt.app.box.com/s/ykl5pwvp35kwkv0t23avlxugx2ib1ync
+-[Demo Video](https://pitt.app.box.com/s/ykl5pwvp35kwkv0t23avlxugx2ib1ync)
 
--Computer Science Department Announcement: https://cs.pitt.edu/news/cs-women-win-pitt-mobile-app-challenge/
+-[Computer Science Department Announcement](https://cs.pitt.edu/news/cs-women-win-pitt-mobile-app-challenge/)
 
 
 ## Credits
 
 Photoglot was made by: 
-- @ChloeCiora
-- @Ottania
-- @ces131
-- @NurIren
+- [@ces131](https://github.com/ces131)
+- [@ChloeCiora](https://github.com/ChloeCiora)
+- [@Ottania](https://github.com/ottania)
+- [@NurIren](https://github.com/NurIren)
 
 
