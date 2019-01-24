@@ -30,7 +30,7 @@ The iOS app version of Photoglot has won first Place in the Pitt Mobile App Chal
 Photoglot was made by: 
 - @ChloeCiora
 - @Ottania
-- @
+- @ces131
 - @NurIren
 
 
