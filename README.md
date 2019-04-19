@@ -11,7 +11,7 @@ Photoglot was initially built at SheInnovates 2018 as a web app. More details ca
 Photoglot was later turned into an iOS app. It uses Apple Vision Resnet50 and Microsoft Azure text translator API. To run the app, you will need an API key. This code was tested using an iphone 7, so settings may change with different models.
 
 
-## Acomplishments
+## Awards
 
 The iOS app version of Photoglot has won first Place in the Pitt Mobile App Challenge 2018 Code-it category. The web app version of Photoglot won third at SheInnovates 2018.
 
