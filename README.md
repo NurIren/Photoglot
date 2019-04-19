@@ -2,6 +2,10 @@
 
 PhotoGlot is a language learning tool. The user aims the camera at an object, and the name of that object is displayed in the language of choice. Our app aims to aid in language learning. Instead of using an intermediary language to determine what an object is in a foreign language, our app allows for direct association of an object with a word in that language.
 
+
+![Image of Language pick](IMG_4278-1.PNG)
+
+
 ## Photoglot as a web app
 
 Photoglot was initially built at SheInnovates 2018 as a web app. More details can be found [here](https://github.com/ChloeCiora/sheInnovates18) 
